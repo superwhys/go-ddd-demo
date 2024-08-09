@@ -72,6 +72,8 @@ github.com/go-puzzles/prouter v1.0.5 h1:sBoEHRdsUNsa/s2a5Xjjet+hSUP20UqYBWzlDkPX
 github.com/go-puzzles/prouter v1.0.5/go.mod h1:pnF2ZwD6FKVp5bpPSp4j0Nv41p7yAV6fzO13GO7IDPY=
 github.com/go-puzzles/prouter v1.0.6 h1:VihoLpImF5hVFHyyyeNXemUq33Ek9EUyi7m4I/aOiV4=
 github.com/go-puzzles/prouter v1.0.6/go.mod h1:pnF2ZwD6FKVp5bpPSp4j0Nv41p7yAV6fzO13GO7IDPY=
+github.com/go-puzzles/prouter v1.0.8 h1:VERaDTH0mrpMqRiu3S34zRM1rAJNKVRnbCy45PI9Tbk=
+github.com/go-puzzles/prouter v1.0.8/go.mod h1:ERwtbxu6qhuM01Ca5pZNJ+1G6g4IO5SkP/9cYyscGEM=
 github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
 github.com/go-sql-driver/mysql v1.8.1 h1:LedoTUt/eveggdHS9qUFC1EFSa8bU2+1pZjSRpvNJ1Y=
 github.com/go-sql-driver/mysql v1.8.1/go.mod h1:wEBSXgmK//2ZFJyE+qWnIsVGmvmEKlqwuVSjsCm7DZg=

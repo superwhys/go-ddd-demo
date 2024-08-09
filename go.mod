@@ -7,7 +7,7 @@ require (
 	github.com/go-puzzles/pflags v1.0.3
 	github.com/go-puzzles/pgorm v1.0.0
 	github.com/go-puzzles/plog v1.0.6
-	github.com/go-puzzles/prouter v1.0.6
+	github.com/go-puzzles/prouter v1.0.8
 	github.com/pkg/errors v0.9.1
 	golang.org/x/crypto v0.26.0
 	gorm.io/gorm v1.25.11
