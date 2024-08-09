@@ -1,0 +1,5 @@
+mysql-conf:
+  instance: localhost:3306
+  database: ddd-test
+  username: root
+  password: yang4869
